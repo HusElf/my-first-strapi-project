@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_attributes_sizes",
+  "info": {
+    "displayName": "size",
+    "icon": "crop",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "size": {
+      "type": "enumeration",
+      "enum": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  }
+}

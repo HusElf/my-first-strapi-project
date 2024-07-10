@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "attributes",
+  "info": {
+    "singularName": "attribute",
+    "pluralName": "attributes",
+    "displayName": "color-attributes",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "color": {
+      "type": "enumeration",
+      "enum": [
+        "red",
+        "yellow",
+        "blue",
+        "black"
+      ]
+    }
+  }
+}

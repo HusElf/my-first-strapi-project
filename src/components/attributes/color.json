@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_attributes_colors",
+  "info": {
+    "displayName": "Color",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "color_attributes": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::attribute.attribute"
+    }
+  }
+}
